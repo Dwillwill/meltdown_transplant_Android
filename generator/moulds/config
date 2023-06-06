@@ -1,0 +1,1 @@
+counter: 60, dir_test_case: 4, index_Op_type_victim: 0, index_size_victim: 0, index_Op_type_attacker: 0, index_size_attacker: 2, index_reg_attacker: 2, index_fault_name: 12, index_target_align_data_access: 0, index_Op_type_level_ttbe_non_accessable: 0, index_target_level_ttbe_non_accessable: 0, index_size_level_ttbr_non_accessable: 0, index_size_read_only: 0 
